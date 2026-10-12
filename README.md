@@ -1,1 +1,1 @@
-# bibi-baby-monitor-privacy-polocy
+# bibi-baby-monitor-privacy-policy
