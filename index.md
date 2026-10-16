@@ -1,7 +1,7 @@
 # Privacy Policy — Bibi Baby Monitor
 
 **Effective date:** October 12, 2026  
-**Application:** Baby Monitor  
+**Application:** Bibi Baby Monitor  
 **Developer:** The Corporation  
 **Contact email:** ilievthecorporation@gmail.com
 
