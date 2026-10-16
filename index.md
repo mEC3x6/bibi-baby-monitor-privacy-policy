@@ -1,9 +1,9 @@
-# Privacy Policy — Baby Monitor
+# Privacy Policy — Bibi Baby Monitor
 
 **Effective date:** October 12, 2026  
 **Application:** Baby Monitor  
-**Developer:** pkirilov  
-**Contact email:** plamenkirilov30@gmail.com
+**Developer:** The Corporation  
+**Contact email:** ilievthecorporation@gmail.com
 
 ## 1. Introduction
 
@@ -146,5 +146,5 @@ If you have questions about your personal information or wish to exercise applic
 
 For privacy-related questions, please contact:
 
-**Developer:** pkirilov  
-**Email:** plamenkirilov30@gmail.com
+**Developer:** The Corporation  
+**Email:** ilievthecorporation@gmail.com
