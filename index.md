@@ -9,7 +9,7 @@
 
 This Privacy Policy explains how the Baby Monitor mobile application ("the App") handles information and uses device permissions.
 
-Baby Monitor is designed to help parents and caregivers monitor sound levels in a room and automatically initiate a cellular telephone call to a user-configured phone number when the selected noise threshold and detection conditions are met.
+Bibi Baby Monitor is designed to help parents and caregivers monitor sound levels in a room and automatically initiate a cellular telephone call to a user-configured phone number when the selected noise threshold and detection conditions are met.
 
 We respect your privacy and aim to minimize the information processed by the App.
 
@@ -48,7 +48,7 @@ These settings are used to provide the App's functionality.
 
 ## 3. Device Permissions
 
-Baby Monitor uses the following Android permissions:
+Bibi Baby Monitor uses the following Android permissions:
 
 **Microphone (`RECORD_AUDIO`)**
 
@@ -104,7 +104,7 @@ The developer does not sell personal information.
 
 ## 7. Children's Privacy
 
-Baby Monitor is intended for use by parents, guardians and other caregivers, rather than directly by children.
+Bibi Baby Monitor is intended for use by parents, guardians and other caregivers, rather than directly by children.
 
 The App may detect sounds made by a baby or another person in the monitored room. Such audio is processed locally for noise detection and is not intentionally stored or uploaded by the App.
 
